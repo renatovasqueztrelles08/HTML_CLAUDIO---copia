@@ -11,6 +11,8 @@
 }
 body {
     font-family: 'Roboto Condensed', sans-serif;
+	 background: #333;
+	color: #fff;
 }
 
 header{
